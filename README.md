@@ -17,7 +17,7 @@ the Live Server, as I was viewing it on my browser, the live page was not found.
 
 Future Improvements:  ----------------------------------------------------------------------------
 
-Additional Features: In the future I would like to implement animations and more responsiveness to my webpage. I would also like to create 
+Additional Features: In the future I would like to implement animations and more responsiveness to my web page. I would also like to create 
 a more vibrant webpage with different elements surrounding the webpage and designs to catch the attention of the customers.
 
 Optimization: In terms of optimization, I would probably minimize the codes that are present and remove unnecessary codes to provide a more clean 
